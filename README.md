@@ -17,4 +17,4 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/Jamadeshamar
-[linkedin]: https://linkedin.com/in/Divine
+[linkedin]: https://linkedin.com/in/DivineFrancis
