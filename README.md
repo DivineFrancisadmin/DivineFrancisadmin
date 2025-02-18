@@ -1,4 +1,4 @@
-<h1>Hi, I'm Divine, an <a href="https://linkedin.com/in/divine">IT Professional</a>☺</h1>
+<h1>Hi, I'm Divine, an <a href="https://linkedin.com/in/divinefrancis">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
