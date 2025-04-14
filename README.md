@@ -19,4 +19,4 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/Jamadeshamar
-[linkedin]: https://linkedin.com/in/DivineFrancis
+[linkedin]: https://linkedin.com/in/divine-francis-1a3024188/
