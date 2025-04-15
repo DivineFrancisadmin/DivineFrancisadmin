@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/DivineFrancisadmin/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DivineFrancisadmin/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/DivineFrancisadmin/configure-ad)
+  - [Configuring Active On-Premises Directory within Azure VMs](https://github.com/DivineFrancisadmin/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DivineFrancisadmin/azure-network-protocols)
 - <b>PowerShell</b>
   - <a href="https://github.com/DivineFrancisadmin/SystemHealthMonitor"> System Health Monitoring with PowerShell</a>
